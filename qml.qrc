@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>img/background.jpg</file>
+        <file>img/bgr.jpg</file>
+        <file>img/thunderbolt (1).png</file>
+        <file>img/thunderbolt.png</file>
+        <file>img/wireless-charging.png</file>
+        <file>img/back.png</file>
+        <file>img/drawer.png</file>
+        <file>img/menu.png</file>
+        <file>CityTableView.qml</file>
+        <file>FoodTableView.qml</file>
+        <file>PeopleTableView.qml</file>
+    </qresource>
+</RCC>
